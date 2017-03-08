@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/jsr305-1.3.9_7b0c8643dd7d5ff34e4d5b4e7c5a4426eff8d0fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/803dbf7557800e3378c3b6a70e116c200f9db907/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_737e68d23b184d26431812dda02d8afd67a822af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/8d35fa68031510c21b1857f45ef0959e766193fd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_c0034ff8f49326ec9dbc361495a35e912bc654a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/06534b9fa20dbcbbb1b25271c75c06f70f955d10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_2ee57cba236380f879d696052e24189edfc02723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/d1e87a9762313fca2e288452a8b4d5847867706a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_2739fd43415dc68d28342d12c476a0c73ee7fdd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/94f896388be6673cbb1888b67293574b04d0367a/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.0_57786cdcc50805cb406b1e706203cb59dd2da75e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/56b24ca8f50e28757de409e13e74100bcda7aa34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_70ab6d80fac55aad23044c0d183fbea53fd9037e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/8d35fa68031510c21b1857f45ef0959e766193fd/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.0_3df3e692d12743c49c3968853e3c11f77a2b45b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/df235ac2414b8fc26f6ca338c2e8e78caf93c732/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_6bfee086dafd63ef8204bf4be0698de645a450bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/b3541f97a11e4a55415cfe34977a9d2a2692dbb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_be8d08ed4ce8ba2317a5de5742c988fe0e7c13f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/94f896388be6673cbb1888b67293574b04d0367a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_549267378bb78b2d2a6326e0b81c02b1be3d0f70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/0e92fe8bad0031de3b9a09f961bb7fd1c4ec54b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_809a9defe209b0c884335b85001e5e10f7d695fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/workspace/android/udacity-android-built-it-bigger/app/build/intermediates/incremental-runtime-classes/free/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Lawrey/workspace/android/udacity-android-built-it-bigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run_261e30475107cb633bdbf636e8d46cadd54abe4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/6df1aec11fceb1122cae5afd9104737c3cde6192/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_0f60bed9c7addd6fb75a6c08469d3a53b8f6bf98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/6df1aec11fceb1122cae5afd9104737c3cde6192/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.0_a44a69e78275e90b4ca67fd31a6fc21604c664d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/support-annotations-24.2.0_b0f014f8fe95c636734df818fadc5e5dc93e10d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/b552306ba1bf45c146ac0ba8b763b91b6838f56b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_7c31e079bcb0d97d87e4607f9af644ecd9fe00d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/b3541f97a11e4a55415cfe34977a9d2a2692dbb1/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.0_4f4682362a9d3ed08ef5171157c01bd3cccc7e17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/d652a7e1509780f4fc1829623692e3978f6a690d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_775b596c35b694692a5c5d097916b6b4e992f86e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/incremental-runtime-classes/free/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run_93d3265432f05247041de1c1cf8be337db3d6012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/workspace/android/udacity-android-built-it-bigger/app/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4191c55e8b0b18fd80f205b3352d822d975b2f8">
+        <dex dex="/Users/Lawrey/workspace/android/udacity-android-built-it-bigger/app/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run-bootstrap_2263efa15fb7e51aa280ec7bc2754d84b5f6ea3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/incremental-classes/free/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="123b574986bde67bf2d793e000745425e0cbae6e">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10000/instant-run-bootstrap_a8db5e375130691df4c89b0a5bb8c516011adbdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/ccd908e7f81d8c5431b1e6a21e73fd1755a9d16a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_51869f1ddc4a7dc7ab17ad4c41ddef07edc3411b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/b552306ba1bf45c146ac0ba8b763b91b6838f56b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/internal_impl-24.2.0_23acc5c5b3774cc1c851a3616efcc4acf48f5215/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/a9021287334ab58c119ade48d13072008d4cf48a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_1bf35f652847b0cf173146ffaa0305f161c3bb68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/1d49f4d697d31dc2c524f739c0a08f0505a1eca4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_176aa221641ee0f976105437690ce2f2c8f65f49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Lawrey/.android/build-cache/d36c3c89c8381bed65cabf4e0a8b55ae7e25644f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/Lawrey/Downloads/udacity-builditbigger-master/app/build/intermediates/transforms/dex/free/debug/folders/1000/10/classes_ddacdc187b2871c588b4f72dd93f9fa4411c86c6/classes.dex" />
+    </item>
+
+</items>
