@@ -16,6 +16,10 @@ public class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
     private static MyApi myApiService = null;
     private OnTaskCompleted mListener;
 
+
+    public EndpointsAsyncTask() {
+    }
+
     public EndpointsAsyncTask (OnTaskCompleted listener) {
         this.mListener = listener;
     }
@@ -39,6 +43,8 @@ public class EndpointsAsyncTask extends AsyncTask<Void, Void, String> {
     @Override
     protected void onPostExecute(String result) {
 
-        mListener.onTaskCompleted(result);
+        if (mListener != null) {
+            mListener.onTaskCompleted(result);
+        }
     }
 }
